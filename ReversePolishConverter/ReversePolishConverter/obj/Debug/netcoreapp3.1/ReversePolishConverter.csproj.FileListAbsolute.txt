@@ -1,0 +1,14 @@
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.exe
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.deps.json
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.runtimeconfig.json
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.runtimeconfig.dev.json
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.dll
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\bin\Debug\netcoreapp3.1\ReversePolishConverter.pdb
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.csproj.AssemblyReference.cache
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.AssemblyInfoInputs.cache
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.AssemblyInfo.cs
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.csproj.CoreCompileInputs.cache
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.dll
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.pdb
+C:\Users\louie\source\repos\C#\ReversePolishConverter\ReversePolishConverter\ReversePolishConverter\obj\Debug\netcoreapp3.1\ReversePolishConverter.genruntimeconfig.cache
